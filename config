@@ -34,7 +34,7 @@ visualizer_in_stereo = "yes"
 
 now_playing_prefix = "$3▶$9 "
 now_playing_suffix = "$9"
-song_columns_list_format = "(8)[magenta]{l} (29)[yellow]{a} (23)[green]{b} (33)[blue]{t} (7)[red]{yr}"
+song_columns_list_format = "(9)[magenta]{l} (27)[yellow]{a} (24)[green]{b} (33)[blue]{t} (7)[red]{yr}"
 playlist_display_mode = "columns" (classic/columns)
 
 # Bars
